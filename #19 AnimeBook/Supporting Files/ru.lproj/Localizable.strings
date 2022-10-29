@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  #19 AnimeBook
+
+  Created by Владимир Рубис on 22.10.2022.
+  
+*/
+
+"Welcome" = "Привет";
+"AnimeBook" = "Аниме Книга";
+"Request Settings" = "Настройки запроса";
+"Quantity" = "Количество";
+"Start Date" = "Начальная дата";
+"End Date" = "Конечная дата";
+"Cancel" = "Отмена";
+" AnimeBook" = " Аниме Книга";
